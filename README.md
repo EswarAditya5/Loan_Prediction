@@ -2,7 +2,7 @@
 
 ### The project involves the following key steps:
 
-**Data Collection:** https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii
+**Data Collection:** [Analytics vidya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii)
 
 ## Problem Statement:
 **Predict Loan Eligibility for Dream Housing Finance company**
