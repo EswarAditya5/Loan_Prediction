@@ -12,3 +12,9 @@ The company wants to automate the loan eligibility process (real-time) based on 
 
 
 **Process involved:**
+1. Missing Values imputation
+2. Data Manipulation
+3. Data Visualization
+4. Statistical Analysis
+5. Model Building
+6. Predictive Analysis
